@@ -1,0 +1,17 @@
+# macOS system files
+.DS_Store
+
+*.html
+*.db
+
+# Jupyter notebook metadata
+.nbgrader.db
+.nbgrader.log
+.nbgrader_cache/
+
+# Jupyter notebook widget state
+.ipynb-merge-tests/
+.nbinteract/
+
+# Jupyter notebook environment folder
+.venv/
